@@ -2,6 +2,6 @@
 
 int main (int argc, char **argv)
 {
-        printf("Hello, this is learn yocto\n");
+        printf("Hello, this is the learn yocto\n");
         return 0;
 }
