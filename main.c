@@ -2,6 +2,6 @@
 
 int main (int argc, char **argv)
 {
-        printf("Hello from develop\n");
+        printf("Hello from master\n");
         return 0;
 }
